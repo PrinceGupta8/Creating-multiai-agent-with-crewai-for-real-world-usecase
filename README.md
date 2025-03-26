@@ -26,8 +26,8 @@ This project automates blog content creation by extracting insights from YouTube
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YourUsername/youtube-blog-generator.git
-   cd youtube-blog-generator
+   git clone https://github.com/PrinceGupta8/Creating-multiai-agent-with-crewai-for-real-world-usecase.git
+   cd Creating-multiai-agent-with-crewai-for-real-world-usecase
    ```
 
 2. **Create a virtual environment**
